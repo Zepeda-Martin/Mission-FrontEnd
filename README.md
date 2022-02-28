@@ -23,6 +23,7 @@
 <li>La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.</li>
  
 <h2>Levantamiento de requerimientos</h2>
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Levantamiento%20de%20Requerimientos/diagram.png">
  
 <h2>Buyer Persona</h2>
   
@@ -34,15 +35,15 @@
   
 <h2>Presentacion de WireFrames - User xperience</h2>
   
- <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020643.jpeg"  width="500">
- <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020804.jpeg"  width="500">
- <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020819.jpeg"  width="500">
- <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020842.jpeg"  width="500">
- <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020856.jpeg"  width="500">
- <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020865.jpeg"  width="500">
- <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020881.jpeg"  width="500">
- <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020893.jpeg"  width="500">
- <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020904.jpeg"  width="500">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020643.jpeg"  width="600">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020804.jpeg"  width="600">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020819.jpeg"  width="600">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020842.jpeg"  width="600">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020856.jpeg"  width="600">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020865.jpeg"  width="600">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020881.jpeg"  width="600">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020893.jpeg"  width="600">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020904.jpeg"  width="600">
  
 <h2>User Interface</h2>
   
