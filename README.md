@@ -34,7 +34,15 @@
   
 <h2>Presentacion de WireFrames - User xperience</h2>
   
-<img src="Mission-FrontEnd/WireframesUX/photo1646020643.jpeg"  width="200">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020643.jpeg"  width="500">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020804.jpeg"  width="500">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020819.jpeg"  width="500">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020842.jpeg"  width="500">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020856.jpeg"  width="500">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020865.jpeg"  width="500">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020881.jpeg"  width="500">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020893.jpeg"  width="500">
+ <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020904.jpeg"  width="500">
  
 <h2>User Interface</h2>
   
