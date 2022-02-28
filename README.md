@@ -34,8 +34,8 @@
   
 <h2>Presentacion de WireFrames - User xperience</h2>
   
-[![photo1646020819.jpg](https://i.postimg.cc/q75T72N5/photo1646020819.jpg)](https://postimg.cc/qtyYbhXs)
-  
+<img src="">
+ 
 <h2>User Interface</h2>
   
   
