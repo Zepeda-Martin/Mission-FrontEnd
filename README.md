@@ -50,11 +50,17 @@
  <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Wireframes%20UX/photo1646020904.jpeg"  width="600">
  
 <h2>User Interface</h2>
+ <p>Generador de demandas</p>
  <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/UI/Frame%201%20Generador.png"  width="600">
+ <p>Login/Registro de usuarios</p>
  <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/UI/Frame%202%20Login.png"  width="600">
  <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/UI/Frame%202%20Registrer.png"  width="600">
+ <p>DashBoard de pagos</p>
  <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/UI/Frame%20DashBoard.png"  width="600">
+ <p>Actualizaciones de demandas</p>
  <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/UI/Frame%20Historial%20de%20demandas.png"  width="600">
+ <p>Metodos de pago</p>
  <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/UI/Frame%20Pagos.png"  width="600">
+ <p>Datos generales</p>
  <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/UI/Frame%20Perfil%20de%20ususario.png"  width="600">
   
