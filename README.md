@@ -23,6 +23,18 @@
 <li>La preferncia de colores del cliente es azul marino y blanco, pero acepta propuestas.</li>
  
 <h2>Levantamiento de requerimientos</h2>
+ 
+<h2>Requerimientos</h2>
+<li>Sistema de regristro y login</li>
+<li>Generador de una nueva demanda</li>
+<li>Formulario o pasarela de pago</li>
+<li>Visualización de actualizaciones en la demanda</li>
+<li>Perfil de administrador</li>
+<li>Dashboard de todos los pagos para el administrador</li>
+<li>Perfil de usuario con la informacion disponible</li>
+<li>Crear documento legal en .docx automáticamente</li>
+ 
+<h2>Diagrama BPMN</h2>
  <img src="https://github.com/Zepeda-Martin/Mission-FrontEnd/blob/main/Levantamiento%20de%20Requerimientos/diagram.png" width="900">
  
 <h2>Buyer Persona</h2>
